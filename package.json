@@ -1,0 +1,20 @@
+  { 
+  "name": "m1625-simple-calculator",
+  "version": "1.0.2",
+  "description": "A simple calculator with Typescript,Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin" : "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maham Fida Khan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "prettier": "3.2.5" 
+    } }
+  
